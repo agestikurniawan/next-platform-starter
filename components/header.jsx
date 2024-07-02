@@ -5,9 +5,9 @@ import githubLogo from 'public/images/github-mark-white.svg';
 
 const navItems = [
     { linkText: 'Home', href: '/' },
-    { linkText: 'Revalidation', href: '/revalidation' },
-    { linkText: 'Image CDN', href: '/image-cdn' },
-    { linkText: 'Edge Function', href: '/edge' },
+    { linkText: 'Lanlon Farm', href: '/revalidation' },
+    { linkText: 'Lanlon Original Expertise', href: '/image-cdn' },
+    { linkText: 'Lanlon Entertaiment', href: '/edge' },
     { linkText: 'Blobs', href: '/blobs' },
     { linkText: 'Classics', href: '/classics' }
 ];
